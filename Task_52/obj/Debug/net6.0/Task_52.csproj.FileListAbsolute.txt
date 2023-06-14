@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\obj\Debug\net6.0\Task_52.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\obj\Debug\net6.0\Task_52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\obj\Debug\net6.0\Task_52.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\bin\Debug\net6.0\Task_52.exe
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\bin\Debug\net6.0\Task_52.deps.json
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\bin\Debug\net6.0\Task_52.runtimeconfig.json
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\bin\Debug\net6.0\Task_52.dll
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\bin\Debug\net6.0\Task_52.pdb
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\obj\Debug\net6.0\Task_52.dll
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\obj\Debug\net6.0\refint\Task_52.dll
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\obj\Debug\net6.0\Task_52.pdb
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\obj\Debug\net6.0\Task_52.genruntimeconfig.cache
+C:\Users\Павел\Desktop\Обучение гик\3. Знакомство с языками программирования C#\C#\Seminar7_HW\Task_52\obj\Debug\net6.0\ref\Task_52.dll
